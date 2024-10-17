@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>NeedIt_Supriya</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>NeedIt_Supriya</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">17e6835bd12302104f34ba60d8b7c1f4</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 10:07:53</sys_created_on>
+        <sys_id>972bfd9dc3919210fa45563ed4013128</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt_Supriya</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_wizard_answer_972bfd9dc3919210fa45563ed4013128</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 10:07:53</sys_updated_on>
+        <table/>
+        <target_url>x_58872_needit_needit_supriya.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3d9c04d41bcd8a5c39a54089bd4bcbeb</instance_id>
+        <instance_name>dev243861</instance_name>
+        <name>sys_wizard_answer_972bfd9dc3919210fa45563ed4013128</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>NeedIt_Supriya</answer><button_label/><dependent_value/><element/><name>NeedIt_Supriya</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">17e6835bd12302104f34ba60d8b7c1f4</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-16 10:07:53</sys_created_on><sys_id>972bfd9dc3919210fa45563ed4013128</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt_Supriya</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_wizard_answer_972bfd9dc3919210fa45563ed4013128</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-16 10:07:53</sys_updated_on><table/><target_url>x_58872_needit_needit_supriya.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-654641377</payload_hash>
+        <record_name>NeedIt_Supriya</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 16:52:45</sys_created_on>
+        <sys_id>02d79795c3111210fa45563ed401316e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192963f05a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 16:52:45</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>ced79795a0111210b4f02b209dcd086d</update_guid>
+        <update_guid_history>ced79795a0111210b4f02b209dcd086d:-654641377</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 16:52:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>09b0f92b2047409c8146eddf1dc8ed90</sys_id>
+        <sys_metadata>972bfd9dc3919210fa45563ed4013128</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt_Supriya</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Task">17e6835bd12302104f34ba60d8b7c1f4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_972bfd9dc3919210fa45563ed4013128</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_972bfd9dc3919210fa45563ed4013128">02d79795c3111210fa45563ed401316e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 16:52:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
